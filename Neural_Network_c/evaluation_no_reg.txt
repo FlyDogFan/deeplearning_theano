@@ -1,0 +1,186 @@
+layers num = 3
+size = 784 100 10 
+nepochs = 50
+batch_size = 10
+learning rate = 0.5
+cost_method = CEC
+
+loading the train images ... ...
+magic num = 2051
+image num = 60000
+rows num = 28
+cols num = 28
+inputs num = 60000
+
+loading the train labels ... ...
+magic num = 2049
+image num = 60000
+labels num = 60000
+
+loading the test images ... ...
+magic num = 2051
+image num = 10000
+rows num = 28
+cols num = 28
+inputs num = 10000
+
+loading the test labels ... ...
+magic num = 2049
+image num = 10000
+labels num = 10000
+
+--------------------------------
+neural network2.
+initializing the biases and weights ... ...
+initialized ok. 
+
+ECOPH 0 TRAINING COMPLETE.
+accuracy for training data: 56516/60000 cost: 0.426945
+accuracy for test data: 9379/10000 cost: 0.444023
+ECOPH 1 TRAINING COMPLETE.
+accuracy for training data: 57457/60000 cost: 0.332528
+accuracy for test data: 9509/10000 cost: 0.373535
+ECOPH 2 TRAINING COMPLETE.
+accuracy for training data: 57852/60000 cost: 0.266529
+accuracy for test data: 9543/10000 cost: 0.323346
+ECOPH 3 TRAINING COMPLETE.
+accuracy for training data: 58221/60000 cost: 0.227359
+accuracy for test data: 9598/10000 cost: 0.31438
+ECOPH 4 TRAINING COMPLETE.
+accuracy for training data: 58343/60000 cost: 0.214709
+accuracy for test data: 9598/10000 cost: 0.315318
+ECOPH 5 TRAINING COMPLETE.
+accuracy for training data: 58629/60000 cost: 0.189109
+accuracy for test data: 9612/10000 cost: 0.308587
+ECOPH 6 TRAINING COMPLETE.
+accuracy for training data: 58776/60000 cost: 0.171962
+accuracy for test data: 9629/10000 cost: 0.295509
+ECOPH 7 TRAINING COMPLETE.
+accuracy for training data: 58943/60000 cost: 0.155427
+accuracy for test data: 9616/10000 cost: 0.306808
+ECOPH 8 TRAINING COMPLETE.
+accuracy for training data: 59083/60000 cost: 0.144149
+accuracy for test data: 9648/10000 cost: 0.294426
+ECOPH 9 TRAINING COMPLETE.
+accuracy for training data: 59013/60000 cost: 0.14966
+accuracy for test data: 9623/10000 cost: 0.313184
+ECOPH 10 TRAINING COMPLETE.
+accuracy for training data: 59165/60000 cost: 0.131635
+accuracy for test data: 9643/10000 cost: 0.305318
+ECOPH 11 TRAINING COMPLETE.
+accuracy for training data: 59239/60000 cost: 0.117692
+accuracy for test data: 9628/10000 cost: 0.306628
+ECOPH 12 TRAINING COMPLETE.
+accuracy for training data: 59329/60000 cost: 0.107423
+accuracy for test data: 9659/10000 cost: 0.296532
+ECOPH 13 TRAINING COMPLETE.
+accuracy for training data: 59399/60000 cost: 0.0967021
+accuracy for test data: 9651/10000 cost: 0.296167
+ECOPH 14 TRAINING COMPLETE.
+accuracy for training data: 59431/60000 cost: 0.0956355
+accuracy for test data: 9645/10000 cost: 0.2976
+ECOPH 15 TRAINING COMPLETE.
+accuracy for training data: 59479/60000 cost: 0.0900511
+accuracy for test data: 9649/10000 cost: 0.300192
+ECOPH 16 TRAINING COMPLETE.
+accuracy for training data: 59486/60000 cost: 0.0879136
+accuracy for test data: 9658/10000 cost: 0.315432
+ECOPH 17 TRAINING COMPLETE.
+accuracy for training data: 59577/60000 cost: 0.0777978
+accuracy for test data: 9659/10000 cost: 0.314317
+ECOPH 18 TRAINING COMPLETE.
+accuracy for training data: 59571/60000 cost: 0.0801178
+accuracy for test data: 9633/10000 cost: 0.335053
+ECOPH 19 TRAINING COMPLETE.
+accuracy for training data: 59597/60000 cost: 0.0756294
+accuracy for test data: 9671/10000 cost: 0.327249
+ECOPH 20 TRAINING COMPLETE.
+accuracy for training data: 59639/60000 cost: 0.0663152
+accuracy for test data: 9657/10000 cost: 0.32194
+ECOPH 21 TRAINING COMPLETE.
+accuracy for training data: 59689/60000 cost: 0.0615437
+accuracy for test data: 9646/10000 cost: 0.328452
+ECOPH 22 TRAINING COMPLETE.
+accuracy for training data: 59721/60000 cost: 0.0541431
+accuracy for test data: 9660/10000 cost: 0.321823
+ECOPH 23 TRAINING COMPLETE.
+accuracy for training data: 59715/60000 cost: 0.0543885
+accuracy for test data: 9648/10000 cost: 0.325277
+ECOPH 24 TRAINING COMPLETE.
+accuracy for training data: 59679/60000 cost: 0.0646894
+accuracy for test data: 9649/10000 cost: 0.345659
+ECOPH 25 TRAINING COMPLETE.
+accuracy for training data: 59738/60000 cost: 0.0556383
+accuracy for test data: 9658/10000 cost: 0.341175
+ECOPH 26 TRAINING COMPLETE.
+accuracy for training data: 59782/60000 cost: 0.0475456
+accuracy for test data: 9663/10000 cost: 0.334743
+ECOPH 27 TRAINING COMPLETE.
+accuracy for training data: 59810/60000 cost: 0.0428142
+accuracy for test data: 9662/10000 cost: 0.340009
+ECOPH 28 TRAINING COMPLETE.
+accuracy for training data: 59826/60000 cost: 0.0394887
+accuracy for test data: 9660/10000 cost: 0.342268
+ECOPH 29 TRAINING COMPLETE.
+accuracy for training data: 59807/60000 cost: 0.0430743
+accuracy for test data: 9673/10000 cost: 0.351488
+ECOPH 30 TRAINING COMPLETE.
+accuracy for training data: 59828/60000 cost: 0.0388441
+accuracy for test data: 9654/10000 cost: 0.35033
+ECOPH 31 TRAINING COMPLETE.
+accuracy for training data: 59859/60000 cost: 0.0323568
+accuracy for test data: 9653/10000 cost: 0.351515
+ECOPH 32 TRAINING COMPLETE.
+accuracy for training data: 59857/60000 cost: 0.0322632
+accuracy for test data: 9658/10000 cost: 0.352723
+ECOPH 33 TRAINING COMPLETE.
+accuracy for training data: 59895/60000 cost: 0.0290982
+accuracy for test data: 9657/10000 cost: 0.348169
+ECOPH 34 TRAINING COMPLETE.
+accuracy for training data: 59890/60000 cost: 0.0278308
+accuracy for test data: 9664/10000 cost: 0.344981
+ECOPH 35 TRAINING COMPLETE.
+accuracy for training data: 59909/60000 cost: 0.0254852
+accuracy for test data: 9660/10000 cost: 0.351421
+ECOPH 36 TRAINING COMPLETE.
+accuracy for training data: 59901/60000 cost: 0.0258098
+accuracy for test data: 9657/10000 cost: 0.36148
+ECOPH 37 TRAINING COMPLETE.
+accuracy for training data: 59915/60000 cost: 0.0246159
+accuracy for test data: 9664/10000 cost: 0.358301
+ECOPH 38 TRAINING COMPLETE.
+accuracy for training data: 59913/60000 cost: 0.0225987
+accuracy for test data: 9655/10000 cost: 0.360443
+ECOPH 39 TRAINING COMPLETE.
+accuracy for training data: 59915/60000 cost: 0.0244357
+accuracy for test data: 9649/10000 cost: 0.366415
+ECOPH 40 TRAINING COMPLETE.
+accuracy for training data: 59885/60000 cost: 0.0272558
+accuracy for test data: 9659/10000 cost: 0.372237
+ECOPH 41 TRAINING COMPLETE.
+accuracy for training data: 59936/60000 cost: 0.0209826
+accuracy for test data: 9661/10000 cost: 0.371363
+ECOPH 42 TRAINING COMPLETE.
+accuracy for training data: 59934/60000 cost: 0.0188808
+accuracy for test data: 9663/10000 cost: 0.368668
+ECOPH 43 TRAINING COMPLETE.
+accuracy for training data: 59930/60000 cost: 0.022135
+accuracy for test data: 9670/10000 cost: 0.384825
+ECOPH 44 TRAINING COMPLETE.
+accuracy for training data: 59942/60000 cost: 0.016986
+accuracy for test data: 9676/10000 cost: 0.370807
+ECOPH 45 TRAINING COMPLETE.
+accuracy for training data: 59952/60000 cost: 0.0159656
+accuracy for test data: 9666/10000 cost: 0.369188
+ECOPH 46 TRAINING COMPLETE.
+accuracy for training data: 59952/60000 cost: 0.0156254
+accuracy for test data: 9666/10000 cost: 0.376951
+ECOPH 47 TRAINING COMPLETE.
+accuracy for training data: 59954/60000 cost: 0.0146156
+accuracy for test data: 9650/10000 cost: 0.379443
+ECOPH 48 TRAINING COMPLETE.
+accuracy for training data: 59942/60000 cost: 0.0177817
+accuracy for test data: 9651/10000 cost: 0.389966
+ECOPH 49 TRAINING COMPLETE.
+accuracy for training data: 59957/60000 cost: 0.0128592
+accuracy for test data: 9662/10000 cost: 0.380174
